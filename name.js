@@ -22,7 +22,6 @@ function showTime() {
     document.getElementById('date').innerText = dateString;
     
     setTimeout(showTime, 1000);
-    
 }
 
 // بدء تشغيل الساعة عند تحميل الصفحة
